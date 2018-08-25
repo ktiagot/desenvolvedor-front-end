@@ -41,5 +41,3 @@ Estática: é um posicionamento que não é alterado pelas propriedades da posi�
 9 - Ambos chamam funções, efetuando a chamada com o primeiro argumento passado, onde o .call recebe os argumentos seguintes em ordem, e o .apply recebe como segundo argumento um array com todos os outros argumentos a serem passados.
 
 10 - "==" é usado para comparação entre valores da variável, transformando ambas num mesmo tipo de variável, enquanto o "===" leva em consideração o tipo dessa variável, somente retornando um valor sendo usado em duas variáveis do mesmo tipo
-
-10 - 
